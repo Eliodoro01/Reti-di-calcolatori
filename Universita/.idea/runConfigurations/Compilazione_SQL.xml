@@ -1,0 +1,9 @@
+<component name="ProjectRunConfigurationManager">
+  <configuration default="false" name="Compilazione SQL" type="DatabaseScript" activateToolWindowBeforeRun="false">
+    <script-file value="$PROJECT_DIR$/SQL/Creazione.sql" />
+    <script-file value="$PROJECT_DIR$/SQL/Popolamento.sql" />
+    <script-mode>FILE</script-mode>
+    <data-source id="f6dca16b-f67f-4110-b4c0-01d37b031a31" namespace="schema/&quot;main&quot;" />
+    <method v="2" />
+  </configuration>
+</component>

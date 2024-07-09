@@ -1,0 +1,11 @@
+C:\Windows\system32\wsl.exe --distribution Ubuntu --exec "/mnt/c/Program Files/JetBrains/CLion 2023.2.2/bin/ttyfix" /bin/bash -c "export CLION_IDE=TRUE && export CMAKE_COLOR_DIAGNOSTICS=ON && export JETBRAINS_IDE=TRUE && cd '/mnt/c/Users/1lomi/OneDrive/Studio/Reti di Calcolatori/Universita/Build/cmake-build-debug' && /usr/bin/cmake -DCMAKE_BUILD_TYPE=Debug -G 'CodeBlocks - Unix Makefiles' -S '/mnt/c/Users/1lomi/OneDrive/Studio/Reti di Calcolatori/Universita/Build' -B '/mnt/c/Users/1lomi/OneDrive/Studio/Reti di Calcolatori/Universita/Build/cmake-build-debug'"
+-- The C compiler identification is GNU 11.4.0
+-- Detecting C compiler ABI info
+-- Detecting C compiler ABI info - done
+-- Check for working C compiler: /usr/bin/cc - skipped
+-- Detecting C compile features
+-- Detecting C compile features - done
+-- Found SQLite3: /usr/include (found version "3.37.2") 
+-- Configuring done
+-- Generating done
+-- Build files have been written to: /mnt/c/Users/1lomi/OneDrive/Studio/Reti di Calcolatori/Universita/Build/cmake-build-debug

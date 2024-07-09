@@ -1,0 +1,5 @@
+/mnt/c/Users/1lomi/OneDrive/Studio/Reti di Calcolatori/Universita/Build/cmake-build-debug/CMakeFiles/Studente.dir
+/mnt/c/Users/1lomi/OneDrive/Studio/Reti di Calcolatori/Universita/Build/cmake-build-debug/CMakeFiles/Segreteria.dir
+/mnt/c/Users/1lomi/OneDrive/Studio/Reti di Calcolatori/Universita/Build/cmake-build-debug/CMakeFiles/Server.dir
+/mnt/c/Users/1lomi/OneDrive/Studio/Reti di Calcolatori/Universita/Build/cmake-build-debug/CMakeFiles/edit_cache.dir
+/mnt/c/Users/1lomi/OneDrive/Studio/Reti di Calcolatori/Universita/Build/cmake-build-debug/CMakeFiles/rebuild_cache.dir

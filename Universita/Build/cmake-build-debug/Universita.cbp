@@ -1,0 +1,192 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6"/>
+	<Project>
+		<Option title="Universita"/>
+		<Option makefile_is_custom="1"/>
+		<Option compiler="gcc"/>
+		<Option virtualFolders="CMake Files\;"/>
+		<Build>
+			<Target title="all">
+				<Option working_dir="/mnt/c/Users/1lomi/OneDrive/Studio/Reti di Calcolatori/Universita/Build/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/gmake -j12 -f &quot;/mnt/c/Users/1lomi/OneDrive/Studio/Reti\ di\ Calcolatori/Universita/Build/cmake-build-debug/Makefile&quot;  VERBOSE=1 all"/>
+					<CompileFile command="/usr/bin/gmake -j12 -f &quot;/mnt/c/Users/1lomi/OneDrive/Studio/Reti\ di\ Calcolatori/Universita/Build/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/gmake -j12 -f &quot;/mnt/c/Users/1lomi/OneDrive/Studio/Reti\ di\ Calcolatori/Universita/Build/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/gmake -j12 -f &quot;/mnt/c/Users/1lomi/OneDrive/Studio/Reti\ di\ Calcolatori/Universita/Build/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="Studente">
+				<Option output="/mnt/c/Users/1lomi/OneDrive/Studio/Reti di Calcolatori/Universita/Build/cmake-build-debug/Studente" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/mnt/c/Users/1lomi/OneDrive/Studio/Reti di Calcolatori/Universita/Build/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/11/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/gmake -j12 -f &quot;/mnt/c/Users/1lomi/OneDrive/Studio/Reti\ di\ Calcolatori/Universita/Build/cmake-build-debug/Makefile&quot;  VERBOSE=1 Studente"/>
+					<CompileFile command="/usr/bin/gmake -j12 -f &quot;/mnt/c/Users/1lomi/OneDrive/Studio/Reti\ di\ Calcolatori/Universita/Build/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/gmake -j12 -f &quot;/mnt/c/Users/1lomi/OneDrive/Studio/Reti\ di\ Calcolatori/Universita/Build/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/gmake -j12 -f &quot;/mnt/c/Users/1lomi/OneDrive/Studio/Reti\ di\ Calcolatori/Universita/Build/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="Studente/fast">
+				<Option output="/mnt/c/Users/1lomi/OneDrive/Studio/Reti di Calcolatori/Universita/Build/cmake-build-debug/Studente" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/mnt/c/Users/1lomi/OneDrive/Studio/Reti di Calcolatori/Universita/Build/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/11/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/gmake -j12 -f &quot;/mnt/c/Users/1lomi/OneDrive/Studio/Reti\ di\ Calcolatori/Universita/Build/cmake-build-debug/Makefile&quot;  VERBOSE=1 Studente/fast"/>
+					<CompileFile command="/usr/bin/gmake -j12 -f &quot;/mnt/c/Users/1lomi/OneDrive/Studio/Reti\ di\ Calcolatori/Universita/Build/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/gmake -j12 -f &quot;/mnt/c/Users/1lomi/OneDrive/Studio/Reti\ di\ Calcolatori/Universita/Build/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/gmake -j12 -f &quot;/mnt/c/Users/1lomi/OneDrive/Studio/Reti\ di\ Calcolatori/Universita/Build/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="Segreteria">
+				<Option output="/mnt/c/Users/1lomi/OneDrive/Studio/Reti di Calcolatori/Universita/Build/cmake-build-debug/Segreteria" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/mnt/c/Users/1lomi/OneDrive/Studio/Reti di Calcolatori/Universita/Build/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/11/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/gmake -j12 -f &quot;/mnt/c/Users/1lomi/OneDrive/Studio/Reti\ di\ Calcolatori/Universita/Build/cmake-build-debug/Makefile&quot;  VERBOSE=1 Segreteria"/>
+					<CompileFile command="/usr/bin/gmake -j12 -f &quot;/mnt/c/Users/1lomi/OneDrive/Studio/Reti\ di\ Calcolatori/Universita/Build/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/gmake -j12 -f &quot;/mnt/c/Users/1lomi/OneDrive/Studio/Reti\ di\ Calcolatori/Universita/Build/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/gmake -j12 -f &quot;/mnt/c/Users/1lomi/OneDrive/Studio/Reti\ di\ Calcolatori/Universita/Build/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="Segreteria/fast">
+				<Option output="/mnt/c/Users/1lomi/OneDrive/Studio/Reti di Calcolatori/Universita/Build/cmake-build-debug/Segreteria" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/mnt/c/Users/1lomi/OneDrive/Studio/Reti di Calcolatori/Universita/Build/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/11/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/gmake -j12 -f &quot;/mnt/c/Users/1lomi/OneDrive/Studio/Reti\ di\ Calcolatori/Universita/Build/cmake-build-debug/Makefile&quot;  VERBOSE=1 Segreteria/fast"/>
+					<CompileFile command="/usr/bin/gmake -j12 -f &quot;/mnt/c/Users/1lomi/OneDrive/Studio/Reti\ di\ Calcolatori/Universita/Build/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/gmake -j12 -f &quot;/mnt/c/Users/1lomi/OneDrive/Studio/Reti\ di\ Calcolatori/Universita/Build/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/gmake -j12 -f &quot;/mnt/c/Users/1lomi/OneDrive/Studio/Reti\ di\ Calcolatori/Universita/Build/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="Server">
+				<Option output="/mnt/c/Users/1lomi/OneDrive/Studio/Reti di Calcolatori/Universita/Build/cmake-build-debug/Server" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/mnt/c/Users/1lomi/OneDrive/Studio/Reti di Calcolatori/Universita/Build/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/11/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/gmake -j12 -f &quot;/mnt/c/Users/1lomi/OneDrive/Studio/Reti\ di\ Calcolatori/Universita/Build/cmake-build-debug/Makefile&quot;  VERBOSE=1 Server"/>
+					<CompileFile command="/usr/bin/gmake -j12 -f &quot;/mnt/c/Users/1lomi/OneDrive/Studio/Reti\ di\ Calcolatori/Universita/Build/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/gmake -j12 -f &quot;/mnt/c/Users/1lomi/OneDrive/Studio/Reti\ di\ Calcolatori/Universita/Build/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/gmake -j12 -f &quot;/mnt/c/Users/1lomi/OneDrive/Studio/Reti\ di\ Calcolatori/Universita/Build/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="Server/fast">
+				<Option output="/mnt/c/Users/1lomi/OneDrive/Studio/Reti di Calcolatori/Universita/Build/cmake-build-debug/Server" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/mnt/c/Users/1lomi/OneDrive/Studio/Reti di Calcolatori/Universita/Build/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/11/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/gmake -j12 -f &quot;/mnt/c/Users/1lomi/OneDrive/Studio/Reti\ di\ Calcolatori/Universita/Build/cmake-build-debug/Makefile&quot;  VERBOSE=1 Server/fast"/>
+					<CompileFile command="/usr/bin/gmake -j12 -f &quot;/mnt/c/Users/1lomi/OneDrive/Studio/Reti\ di\ Calcolatori/Universita/Build/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/gmake -j12 -f &quot;/mnt/c/Users/1lomi/OneDrive/Studio/Reti\ di\ Calcolatori/Universita/Build/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/gmake -j12 -f &quot;/mnt/c/Users/1lomi/OneDrive/Studio/Reti\ di\ Calcolatori/Universita/Build/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="edit_cache">
+				<Option working_dir="/mnt/c/Users/1lomi/OneDrive/Studio/Reti di Calcolatori/Universita/Build/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/gmake -j12 -f &quot;/mnt/c/Users/1lomi/OneDrive/Studio/Reti\ di\ Calcolatori/Universita/Build/cmake-build-debug/Makefile&quot;  VERBOSE=1 edit_cache"/>
+					<CompileFile command="/usr/bin/gmake -j12 -f &quot;/mnt/c/Users/1lomi/OneDrive/Studio/Reti\ di\ Calcolatori/Universita/Build/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/gmake -j12 -f &quot;/mnt/c/Users/1lomi/OneDrive/Studio/Reti\ di\ Calcolatori/Universita/Build/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/gmake -j12 -f &quot;/mnt/c/Users/1lomi/OneDrive/Studio/Reti\ di\ Calcolatori/Universita/Build/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="rebuild_cache">
+				<Option working_dir="/mnt/c/Users/1lomi/OneDrive/Studio/Reti di Calcolatori/Universita/Build/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/gmake -j12 -f &quot;/mnt/c/Users/1lomi/OneDrive/Studio/Reti\ di\ Calcolatori/Universita/Build/cmake-build-debug/Makefile&quot;  VERBOSE=1 rebuild_cache"/>
+					<CompileFile command="/usr/bin/gmake -j12 -f &quot;/mnt/c/Users/1lomi/OneDrive/Studio/Reti\ di\ Calcolatori/Universita/Build/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/gmake -j12 -f &quot;/mnt/c/Users/1lomi/OneDrive/Studio/Reti\ di\ Calcolatori/Universita/Build/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/gmake -j12 -f &quot;/mnt/c/Users/1lomi/OneDrive/Studio/Reti\ di\ Calcolatori/Universita/Build/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+		</Build>
+		<Unit filename="/mnt/c/Users/1lomi/OneDrive/Studio/Reti di Calcolatori/Universita/Implementation/Framework.c">
+			<Option target="Studente"/>
+			<Option target="Segreteria"/>
+			<Option target="Server"/>
+		</Unit>
+		<Unit filename="/mnt/c/Users/1lomi/OneDrive/Studio/Reti di Calcolatori/Universita/Implementation/Network.c">
+			<Option target="Studente"/>
+			<Option target="Segreteria"/>
+			<Option target="Server"/>
+		</Unit>
+		<Unit filename="/mnt/c/Users/1lomi/OneDrive/Studio/Reti di Calcolatori/Universita/Implementation/Segreteria_Helper.c">
+			<Option target="Segreteria"/>
+		</Unit>
+		<Unit filename="/mnt/c/Users/1lomi/OneDrive/Studio/Reti di Calcolatori/Universita/Implementation/Server_Helper.c">
+			<Option target="Server"/>
+		</Unit>
+		<Unit filename="/mnt/c/Users/1lomi/OneDrive/Studio/Reti di Calcolatori/Universita/Implementation/Studente_Helper.c">
+			<Option target="Studente"/>
+		</Unit>
+		<Unit filename="/mnt/c/Users/1lomi/OneDrive/Studio/Reti di Calcolatori/Universita/Source/Segreteria.c">
+			<Option target="Segreteria"/>
+		</Unit>
+		<Unit filename="/mnt/c/Users/1lomi/OneDrive/Studio/Reti di Calcolatori/Universita/Source/Server.c">
+			<Option target="Server"/>
+		</Unit>
+		<Unit filename="/mnt/c/Users/1lomi/OneDrive/Studio/Reti di Calcolatori/Universita/Source/Studente.c">
+			<Option target="Studente"/>
+		</Unit>
+		<Unit filename="/mnt/c/Users/1lomi/OneDrive/Studio/Reti di Calcolatori/Universita/Source/lib.h">
+			<Option target="Studente"/>
+			<Option target="Segreteria"/>
+			<Option target="Server"/>
+		</Unit>
+		<Unit filename="/mnt/c/Users/1lomi/OneDrive/Studio/Reti di Calcolatori/Universita/Build/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\"/>
+		</Unit>
+	</Project>
+</CodeBlocks_project_file>
