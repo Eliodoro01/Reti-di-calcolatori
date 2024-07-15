@@ -1057,7 +1057,7 @@ void Richiesta_Prenotazione_Appello(const int studentefd, struct sockaddr_in seg
     // Gestisce la risposta ricevuta dal server della segreteria
     if (strncmp(result, "SUCCESS", 7) == 0) {
         char *id_prenotazione = result + 8;
-        printf("\nLa prenotazione è andata a buon fine: ID Prenotazione = %s.\n", id_prenotazione);
+        printf("\nLa prenotazione è andata a buon fine: ID Prenoggggtazione = %s.\n", id_prenotazione);
     } else if (strcmp(result, "ALREADY THERE") == 0) {
         printf("\nHai già effettuato una prenotazione su questo appello.\n");
     } else if (strcmp(result, "INVALID COURSE") == 0) {
