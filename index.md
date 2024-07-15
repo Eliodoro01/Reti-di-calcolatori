@@ -1491,4 +1491,4 @@ Studente_Helper.c: Funzioni lato studente per il login, selezione delle operazio
 
 # Crediti
 
-Progetto sviluppato da Eliodoro Mascolo [0124002547] per l'esame di Reti di Calcolatori dell'anno accademico 2023/2024 dell'università Parthenope (NA) sostenuto con il professor Emanuel Di Nardo.
+Progetto sviluppato da Eliodoro Mascolo [0124002547] e Francescomaria Luisi [0124002603] per l'esame di Reti di Calcolatori dell'anno accademico 2023/2024 dell'università Parthenope (NA) sostenuto con il professor Emanuel Di Nardo.
