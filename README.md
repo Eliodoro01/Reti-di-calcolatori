@@ -6,6 +6,8 @@ Studente: Francesco Maria Luisi
 
 Professore: Emanuel Di Nardo
 
+Link Relazione: https://eliodoro01.github.io/Reti-di-calcolatori/
+
 ## Traccia:
 
 ### Scrivere un'applicazione client/server parallelo per gestire esami universitari.
