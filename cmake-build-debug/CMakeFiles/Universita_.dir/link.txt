@@ -1,0 +1,1 @@
+/usr/bin/cc -g CMakeFiles/Universita_.dir/main.c.o -o Universita_ 

@@ -1,0 +1,3 @@
+/mnt/c/Users/lenovo/CLionProjects/Universita-/cmake-build-debug/CMakeFiles/Universita_.dir
+/mnt/c/Users/lenovo/CLionProjects/Universita-/cmake-build-debug/CMakeFiles/edit_cache.dir
+/mnt/c/Users/lenovo/CLionProjects/Universita-/cmake-build-debug/CMakeFiles/rebuild_cache.dir

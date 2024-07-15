@@ -1,0 +1,17 @@
+C:\WINDOWS\system32\wsl.exe --distribution Ubuntu --exec /bin/bash -c "export CMAKE_COLOR_DIAGNOSTICS=ON && export CLION_IDE=TRUE && export JETBRAINS_IDE=TRUE && cd /mnt/c/Users/lenovo/CLionProjects/Universita-/Build/cmake-build-debug && /usr/bin/cmake -DCMAKE_BUILD_TYPE=Debug -G 'CodeBlocks - Unix Makefiles' -S /mnt/c/Users/lenovo/CLionProjects/Universita-/Build -B /mnt/c/Users/lenovo/CLionProjects/Universita-/Build/cmake-build-debug"
+-- The C compiler identification is GNU 11.4.0
+-- Detecting C compiler ABI info
+-- Detecting C compiler ABI info - done
+-- Check for working C compiler: /usr/bin/cc - skipped
+-- Detecting C compile features
+-- Detecting C compile features - done
+CMake Error at /usr/share/cmake-3.22/Modules/FindPackageHandleStandardArgs.cmake:230 (message):
+  Could NOT find SQLite3 (missing: SQLite3_INCLUDE_DIR SQLite3_LIBRARY)
+Call Stack (most recent call first):
+  /usr/share/cmake-3.22/Modules/FindPackageHandleStandardArgs.cmake:594 (_FPHSA_FAILURE_MESSAGE)
+  /usr/share/cmake-3.22/Modules/FindSQLite3.cmake:54 (find_package_handle_standard_args)
+  CMakeLists.txt:30 (find_package)
+
+
+-- Configuring incomplete, errors occurred!
+See also "/mnt/c/Users/lenovo/CLionProjects/Universita-/Build/cmake-build-debug/CMakeFiles/CMakeOutput.log".
